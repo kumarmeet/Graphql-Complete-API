@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "kumarmeet",
+    "MONGO_PASSWORD": "password",
+    "LOCAL_PORT": "3000"
+  }
+}
